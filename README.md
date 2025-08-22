@@ -1,5 +1,3 @@
-# meu-projeto-dio
-Projeto prático da DIO com prompts e resumo do Lab.
 # Meu Projeto DIO
 
 Este repositório contém o projeto prático da DIO, incluindo prompts e resumo do Lab.
